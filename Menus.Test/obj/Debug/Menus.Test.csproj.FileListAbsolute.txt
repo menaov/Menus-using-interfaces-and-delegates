@@ -1,0 +1,11 @@
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\bin\Debug\Menus.Test.exe
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\bin\Debug\Menus.Test.pdb
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\bin\Debug\Menus.Delegates.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\bin\Debug\Menus.Interfaces.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\bin\Debug\Menus.Interfaces.pdb
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\bin\Debug\Menus.Delegates.pdb
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\obj\Debug\Menus.Test.csprojAssemblyReference.cache
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\obj\Debug\Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\obj\Debug\Menus.Test.csproj.CopyComplete
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\obj\Debug\Menus.Test.exe
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Menus.Test\obj\Debug\Menus.Test.pdb

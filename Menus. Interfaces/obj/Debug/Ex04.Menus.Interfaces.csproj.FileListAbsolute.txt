@@ -1,0 +1,6 @@
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex04.Menus. Interfaces\bin\Debug\Menus.Interfaces.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex04.Menus. Interfaces\bin\Debug\Menus.Interfaces.pdb
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex04.Menus. Interfaces\obj\Debug\Menus.Interfaces.dll
+C:\Users\Menahem\Desktop\ToGit\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713 (1)\B19 Ex04 MenahemOvrutski 311528160 ShainHaroni 308541713\Ex04.Menus. Interfaces\obj\Debug\Menus.Interfaces.pdb

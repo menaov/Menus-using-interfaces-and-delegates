@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{871DCE18-D084-4667-A59D-E5335D66ADD1}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Menus.Test</RootNamespace>
+    <AssemblyName>Menus.Test</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CollectionOfMethods.cs" />
+    <Compile Include="CountDigits.cs" />
+    <Compile Include="DelegateRun.cs" />
+    <Compile Include="DelegateTest.cs" />
+    <Compile Include="InterfaceRun.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ShowDate.cs" />
+    <Compile Include="ShowTime.cs" />
+    <Compile Include="ShowVersion.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Menus. Interfaces\Menus.Interfaces.csproj">
+      <Project>{17025b5f-e0ce-49f6-8a40-2c6228a05937}</Project>
+      <Name>Menus.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Menus.Delegates\Menus.Delegates.csproj">
+      <Project>{7d2a96c7-4d80-4edc-8fae-80cad883bc5b}</Project>
+      <Name>Menus.Delegates</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
